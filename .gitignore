@@ -1,0 +1,19 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+*.pyc
+*.o
+*.d
+*.dep
+*.log
+
+# Arduino IDE specific folders
+.build/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS system files
+.DS_Store
+Thumbs.db
